@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+header{
+    background-color: red;
+}
+.menu{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.Aside1{
+    background-color: yellow;
+    display: flex;
+    flex-wrap: wrap;
+}
+p{
+    background-color: aqua;
+    text-align: justify;
+}
+.Aside2{
+    background-color: purple;
+    display: flex;
+    flex-direction: column;
+}
+footer{
+    background-color: green;
+
+}
